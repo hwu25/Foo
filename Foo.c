@@ -2,7 +2,7 @@
 
 void Foo()
 {
-  int i = 0;
+  int i = 0, j = 0;
   i++;
 
   return;
