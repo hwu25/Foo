@@ -1,1 +1,2 @@
-Foo Project.
+Foo Project
+Release 1.
