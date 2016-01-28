@@ -7,5 +7,10 @@ int Bar()
   
   i++ = j++;
   i++ = ++j;
-  return i;
+
+  if (i == j) {
+    return i;
+  } else {
+    return j;
+  }
 }
