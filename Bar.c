@@ -6,5 +6,6 @@ int Bar()
   int j = 0;
   
   i++ = j++;
+  i++ = ++j;
   return i;
 }
