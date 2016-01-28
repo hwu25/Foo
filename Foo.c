@@ -4,6 +4,7 @@ void Foo()
 {
   int i = 0, j = 0;
   j = i++;
+  i--;
 
   return;
 }
